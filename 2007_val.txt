@@ -1,0 +1,312 @@
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/5046.jpg 1152,601,1302,663,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3832.jpg 34,105,552,278,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/5071.jpg 150,899,416,990,0 1032,658,1116,702,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3067.jpg 1734,389,1920,548,0 190,359,1582,497,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2355.jpg 144,324,1766,504,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1305.jpg 1,373,1538,610,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/670.jpg 43,75,710,273,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2868.jpg 670,302,1698,488,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/235.jpg 296,164,710,233,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2510.jpg 471,327,1458,510,0 574,531,782,575,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2582.jpg 1442,586,1663,618,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/259.jpg 172,150,641,218,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3345.jpg 25,116,611,340,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/5088.jpg 1041,738,1131,783,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/654.jpg 11,58,710,226,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1593.jpg 169,158,1920,618,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1867.jpg 49,186,1642,604,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2958.jpg 1675,278,1920,423,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1847.jpg 795,529,1003,554,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3709.jpg 84,26,543,394,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3489.jpg 21,98,632,322,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2019.jpg 1506,458,1712,539,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2535.jpg 1,267,767,467,0 803,395,922,427,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3559.jpg 105,113,400,235,0 168,56,277,107,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1853.jpg 1301,435,1844,569,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1162.jpg 11,341,1881,572,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3869.jpg 82,166,567,351,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/290.jpg 184,110,626,238,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1959.jpg 743,438,874,504,0 1815,542,1920,584,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1239.jpg 590,455,1920,614,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2016.jpg 1268,393,1634,502,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3479.jpg 46,214,585,319,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3065.jpg 1636,447,1846,507,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3475.jpg 42,84,603,265,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3697.jpg 64,39,566,393,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/588.jpg 158,55,707,253,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2389.jpg 1,229,1887,518,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/34.jpg 148,141,710,220,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3570.jpg 56,92,608,270,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2018.jpg 1591,519,1749,560,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3482.jpg 48,167,598,304,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3134.jpg 278,296,923,486,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2254.jpg 1625,446,1920,526,0 1185,331,1920,509,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2690.jpg 57,386,590,515,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/119.jpg 211,165,710,307,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/5121.jpg 450,792,616,849,0 229,902,506,989,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3116.jpg 618,379,1032,486,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2687.jpg 1422,297,1908,451,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2918.jpg 948,347,1920,480,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/4028.jpg 15,214,622,334,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/438.jpg 103,73,682,197,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1874.jpg 254,447,813,574,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/684.jpg 66,54,709,221,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/5124.jpg 222,908,450,988,0 39,856,184,904,0 457,636,494,665,0 1705,607,1763,642,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1402.jpg 152,313,1630,558,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/219.jpg 132,156,710,225,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/216.jpg 247,147,710,251,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3766.jpg 66,9,541,416,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3365.jpg 108,211,634,424,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1006.jpg 972,427,1920,625,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1068.jpg 586,448,1554,608,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1868.jpg 683,419,1920,665,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3804.jpg 38,115,609,369,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3603.jpg 34,185,602,297,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2970.jpg 1270,400,1414,435,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/147.jpg 218,153,593,214,0 556,184,710,228,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/556.jpg 204,100,710,244,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/75.jpg 137,127,710,219,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1862.jpg 903,362,1920,641,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/344.jpg 184,162,710,249,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/730.jpg 107,2,710,212,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3360.jpg 3,121,636,316,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2748.jpg 1,347,273,509,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/41.jpg 262,12,710,217,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2178.jpg 1,318,702,501,0 433,325,1038,522,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1467.jpg 234,292,1920,610,0 1,521,1550,879,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/687.jpg 4,50,710,266,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3179.jpg 92,508,1268,631,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1554.jpg 97,192,1919,805,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1811.jpg 220,528,725,572,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3422.jpg 40,68,605,406,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1683.jpg 178,83,1652,531,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2280.jpg 772,274,1521,527,0 1459,418,1920,489,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/193.jpg 74,130,710,228,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/68.jpg 72,144,672,223,0 1,131,149,176,0 434,117,693,156,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2641.jpg 869,586,1026,624,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3677.jpg 67,176,569,377,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2727.jpg 1633,353,1920,398,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2803.jpg 569,190,1920,436,0 1,250,1379,512,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/138.jpg 256,160,602,216,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3295.jpg 64,119,629,440,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2677.jpg 257,351,773,498,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1788.jpg 5,41,1920,597,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/448.jpg 46,105,710,226,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/328.jpg 227,171,710,227,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2084.jpg 1,269,678,509,0 580,199,1920,438,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2368.jpg 96,557,397,617,0 918,162,1920,462,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/92.jpg 201,153,630,217,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/306.jpg 259,173,499,224,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2124.jpg 4,437,455,563,0 1,320,219,514,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3049.jpg 110,245,664,453,0 796,375,1164,471,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3787.jpg 106,125,516,271,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3003.jpg 445,246,1909,502,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2684.jpg 1,453,216,567,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2699.jpg 1135,406,1298,438,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3642.jpg 50,135,605,343,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/79.jpg 338,165,710,229,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/546.jpg 269,71,658,222,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3542.jpg 93,134,409,301,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2658.jpg 1432,538,1582,583,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3507.jpg 65,132,603,282,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/748.jpg 97,46,710,199,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2892.jpg 317,309,1920,462,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/809.jpg 204,114,710,284,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/538.jpg 2,95,268,248,0 1,162,709,313,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3567.jpg 22,162,606,262,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3467.jpg 97,115,389,255,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1095.jpg 715,475,1920,680,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/330.jpg 103,120,710,231,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1663.jpg 373,158,1920,638,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/5049.jpg 804,617,970,685,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2431.jpg 1,230,566,439,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/957.jpg 334,403,1919,596,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/364.jpg 1,126,410,227,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/88.jpg 200,164,710,223,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/205.jpg 129,142,710,216,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1136.jpg 38,370,1920,610,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3656.jpg 101,179,635,429,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2997.jpg 1094,399,1821,575,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1120.jpg 409,367,1920,615,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3476.jpg 50,256,614,342,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2943.jpg 1135,306,1413,432,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1468.jpg 1,210,1291,605,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/276.jpg 209,172,710,251,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3139.jpg 1013,269,1702,496,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2954.jpg 264,304,679,439,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/182.jpg 238,170,686,235,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2546.jpg 468,322,997,526,0 281,336,594,423,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3471.jpg 74,124,582,330,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1127.jpg 311,382,1920,619,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1372.jpg 252,264,1920,673,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/60.jpg 103,147,710,230,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3790.jpg 73,51,612,252,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3854.jpg 100,204,550,296,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3121.jpg 240,338,844,505,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3878.jpg 59,73,565,298,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1611.jpg 547,116,966,355,0 101,373,1920,850,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1823.jpg 1,442,944,613,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/903.jpg 1,50,710,226,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1178.jpg 233,383,1821,591,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3010.jpg 1013,417,1544,530,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3654.jpg 106,165,610,262,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1435.jpg 1,156,1615,582,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3678.jpg 94,140,391,275,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2899.jpg 1063,317,1912,441,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2643.jpg 1164,464,1457,517,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/5024.jpg 1,549,448,964,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2037.jpg 1017,408,1871,538,0 166,369,1744,501,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2915.jpg 632,390,943,440,0 1269,396,1920,483,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/446.jpg 95,102,710,253,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3562.jpg 94,140,403,254,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3765.jpg 41,14,616,382,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3104.jpg 952,367,1404,481,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1968.jpg 998,246,1382,448,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2610.jpg 935,467,1198,533,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3724.jpg 126,68,518,395,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3788.jpg 44,83,593,439,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3505.jpg 14,52,545,318,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2188.jpg 567,374,1248,512,0 957,331,1802,478,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/175.jpg 252,173,502,221,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2397.jpg 734,365,1247,525,0 347,335,428,372,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2344.jpg 211,348,1832,528,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3641.jpg 23,83,621,295,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/273.jpg 215,172,710,244,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3629.jpg 90,78,578,379,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1019.jpg 918,420,1920,627,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1098.jpg 649,460,1661,615,0 95,497,278,575,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1682.jpg 705,73,1920,555,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2800.jpg 1,268,955,530,0 895,214,1920,441,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3701.jpg 135,149,526,327,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3805.jpg 83,273,576,507,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2813.jpg 193,110,1920,527,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3648.jpg 109,132,404,225,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1928.jpg 636,507,894,563,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1673.jpg 266,621,1920,1011,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/164.jpg 211,174,377,229,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3484.jpg 35,96,624,315,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3791.jpg 73,77,579,293,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/5089.jpg 1048,702,1150,747,0 779,820,839,842,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2230.jpg 1,412,1165,594,0 833,378,1465,497,0 1497,401,1920,504,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3685.jpg 64,88,418,266,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/5063.jpg 109,888,336,990,0 229,688,318,731,0 625,656,709,681,0 880,674,1020,720,0 813,651,913,687,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3358.jpg 37,86,609,361,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3868.jpg 47,43,571,252,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/881.jpg 37,70,710,324,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1880.jpg 665,487,938,565,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1614.jpg 491,223,1914,699,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2886.jpg 1346,393,1920,485,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3096.jpg 1,377,482,519,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/960.jpg 214,410,1920,606,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3885.jpg 63,190,591,369,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3995.jpg 13,6,627,354,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2968.jpg 1298,263,1866,456,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1023.jpg 564,406,1919,582,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/467.jpg 1,127,516,234,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2015.jpg 803,442,1175,524,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2768.jpg 1,270,470,486,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3637.jpg 85,124,613,407,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3817.jpg 50,43,586,270,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3925.jpg 47,175,563,298,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/191.jpg 226,92,567,202,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/5047.jpg 1064,604,1202,670,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1856.jpg 1365,456,1838,585,0 588,458,1135,578,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2830.jpg 753,283,1725,473,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1213.jpg 462,430,982,585,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1652.jpg 1,144,1244,810,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1539.jpg 1,144,1839,555,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2024.jpg 293,99,1920,453,0 1,193,264,521,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/742.jpg 1,46,634,237,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/694.jpg 298,60,710,240,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3819.jpg 171,156,620,302,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2012.jpg 603,431,1046,529,0 1,398,343,468,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1223.jpg 474,303,1474,601,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3080.jpg 1604,355,1920,454,0 568,329,1024,459,0 1,311,434,447,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3651.jpg 21,146,612,319,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2599.jpg 1320,359,1449,386,0 101,503,405,573,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/371.jpg 1,128,382,221,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1975.jpg 1016,474,1470,530,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/215.jpg 113,152,710,233,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2712.jpg 439,371,651,414,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1318.jpg 2,431,1920,715,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1229.jpg 518,474,1920,663,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2488.jpg 933,237,1888,437,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/5142.jpg 377,281,509,324,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2088.jpg 1048,407,1414,510,0 1,263,1376,499,0 1,120,1670,439,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/120.jpg 295,171,710,233,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3008.jpg 1,420,425,489,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1170.jpg 470,448,1918,627,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3891.jpg 32,85,601,345,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1506.jpg 1,11,1587,415,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1896.jpg 409,410,1849,647,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1654.jpg 1,179,1897,684,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2468.jpg 482,310,1491,549,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3389.jpg 36,144,620,296,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/598.jpg 162,39,710,264,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1523.jpg 562,79,1920,545,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2297.jpg 1,299,1449,517,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/313.jpg 218,132,710,218,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/4077.jpg 86,294,578,404,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/65.jpg 118,152,710,223,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3079.jpg 1592,357,1920,520,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1697.jpg 385,142,1790,516,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/15.jpg 82,140,710,227,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/5159.jpg 368,258,497,335,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3665.jpg 27,91,613,294,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/183.jpg 1,146,514,226,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3984.jpg 41,176,526,268,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/5122.jpg 214,910,459,983,0 109,842,259,890,0 1,710,123,756,0 499,636,535,657,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2749.jpg 1440,542,1605,610,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2396.jpg 1,267,808,533,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1277.jpg 1,355,1238,578,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2989.jpg 726,360,1343,497,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2366.jpg 761,324,1920,529,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3022.jpg 454,153,1920,516,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2951.jpg 631,308,1035,435,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2728.jpg 451,375,706,439,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/5025.jpg 1,547,489,960,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2698.jpg 390,412,568,449,0 53,369,215,394,0 1602,512,1861,553,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/345.jpg 154,170,710,259,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1275.jpg 326,391,1610,593,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/380.jpg 242,191,710,304,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1203.jpg 382,431,1626,615,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3346.jpg 20,82,574,340,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/5041.jpg 1452,585,1550,649,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2808.jpg 875,250,1920,494,0 1,199,1243,452,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/121.jpg 102,145,634,220,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3468.jpg 14,107,615,299,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/5102.jpg 1004,708,1073,726,0 1464,704,1530,738,0 777,640,832,667,0 513,697,641,740,0 1099,632,1158,660,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2971.jpg 705,415,877,469,0 927,352,1622,443,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2790.jpg 1,344,813,514,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2276.jpg 731,410,1920,567,0 219,361,1536,490,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1189.jpg 416,374,1630,596,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2669.jpg 1531,411,1920,516,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2119.jpg 255,324,735,550,0 1,286,1135,518,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1715.jpg 600,577,1920,1037,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3068.jpg 1,351,534,473,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3955.jpg 77,171,552,377,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/5104.jpg 1470,704,1525,735,0 618,785,732,854,0 291,838,395,919,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1848.jpg 1403,442,1920,572,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1668.jpg 361,661,1920,1075,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1681.jpg 780,510,1852,748,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/961.jpg 4,306,1920,602,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2412.jpg 983,407,1290,529,0 283,334,516,418,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3509.jpg 48,126,610,438,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2041.jpg 1,309,468,557,0 1,295,805,508,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/540.jpg 90,106,710,234,0 1,179,565,328,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1445.jpg 11,270,1920,725,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2063.jpg 74,452,478,564,0 115,365,1583,491,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1411.jpg 1,273,1043,544,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1902.jpg 1126,525,1667,598,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/5132.jpg 709,261,795,308,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2248.jpg 1321,342,1702,467,0 212,467,487,552,0 280,246,1131,497,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/4054.jpg 16,125,614,238,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1244.jpg 590,355,1919,591,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1008.jpg 1006,449,1919,603,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2392.jpg 539,273,1920,484,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3530.jpg 17,183,583,324,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1288.jpg 1,360,1295,576,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/3350.jpg 7,28,612,364,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/1134.jpg 355,378,1920,597,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/2576.jpg 540,651,713,696,0
+/home/hhu4204/yyang/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/5082.jpg 1473,702,1523,731,0 1397,652,1455,690,0 1016,697,1098,736,0
